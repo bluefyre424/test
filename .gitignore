@@ -1,9 +1,0 @@
-
-# Ignore Python compiled files
-__pycache__/
-
-# Ignore bot token file if you separate it
-config.json
-
-# Ignore environment files
-.env
